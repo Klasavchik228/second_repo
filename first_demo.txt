@@ -2,4 +2,8 @@ start
 first line
 second line
 end
+<<<<<<< HEAD
 no back
+=======
+back
+>>>>>>> second_main
